@@ -1,0 +1,26 @@
+{
+  "name": "zenn-testable-source",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3l4l5/zenn-testable-source.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3l4l5/zenn-testable-source/issues"
+  },
+  "homepage": "https://github.com/3l4l5/zenn-testable-source#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.6.0"
+  }
+}
