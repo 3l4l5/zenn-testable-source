@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx jest"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/3l4l5/zenn-testable-source#readme",
   "dependencies": {
+    "jest": "^29.6.4",
     "ts-node": "^10.9.1"
   },
   "devDependencies": {
